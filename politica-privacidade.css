@@ -27,12 +27,12 @@ body {
     margin-right: 0.7rem;
 }
 h1 {
-    font-size: 2.2rem; /* Título principal maior */
+    font-size: 2.2rem; 
     color: #17451c;
     margin-bottom: 1.2rem;
 }
 h2 {
-    font-size: 1.5rem; /* Subtítulos maiores */
+    font-size: 1.5rem; 
     color: #205c28;
     margin-top: 1.7rem;
     margin-bottom: 0.6rem;
@@ -50,7 +50,7 @@ strong {
     color: #17451c;
 }
 .section {
-    margin-bottom: 3.5rem; /* Espaço ainda maior entre as seções */
+    margin-bottom: 3.5rem; 
 }
 .contact {
     background: #eaf5ee;
@@ -87,10 +87,10 @@ strong {
         padding: 1.2rem 1rem 1.2rem 1rem;
     }
     h1 {
-        font-size: 1.5rem; /* Mantém título maior no tablet */
+        font-size: 1.5rem; 
     }
     h2 {
-        font-size: 1.15rem; /* Subtítulo confortável no tablet */
+        font-size: 1.15rem; 
     }
     .logo img {
         height: 1.7rem;
@@ -106,10 +106,10 @@ strong {
         box-shadow: none;
     }
     h1 {
-        font-size: 1.15rem; /* Título ainda legível no mobile */
+        font-size: 1.15rem; 
     }
     h2 {
-        font-size: 1rem; /* Subtítulo ainda legível no mobile */
+        font-size: 1rem; 
     }
     p, li {
         font-size: 0.97rem;
