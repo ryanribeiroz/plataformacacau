@@ -5,7 +5,7 @@ body {
     padding: 0;
 }
 .container {
-    width: 80%; /* Mais largo no desktop, proporcional */
+    width: 80%; /*  largo no desktop, proporcional */
     max-width: 1000px; /* Limite máximo para telas grandes */
     margin: 2rem auto; /* Centraliza o container na tela */
     background: #fff;
@@ -29,21 +29,21 @@ body {
 .logo span {
     font-size: 1.3rem;
     font-weight: 700;
-    color: #17451c; /* Verde mais escuro */
+    color: #17451c; /* Verde escuro */
 }
 h1 {
-    font-size: 2.2rem; /* Título principal maior */
-    color: #17451c; /* Verde mais escuro */
+    font-size: 2.2rem;
+    color: #17451c; /* Verde  escuro */
     margin-bottom: 1.2rem;
 }
 h2 {
-    font-size: 1.5rem; /* Subtítulos maiores */
+    font-size: 1.5rem;
     color: #205c28; /* Verde escuro para melhor contraste */
     margin-top: 1.7rem;
     margin-bottom: 0.6rem;
 }
 p, li {
-    color: #222; /* Texto mais escuro para legibilidade */
+    color: #222; /* Texto  escuro para legibilidade */
     font-size: 1rem;
     line-height: 1.6;
 }
@@ -51,13 +51,13 @@ ul {
     margin: 0 0 1rem 1.1rem;
 }
 strong {
-    color: #17451c; /* Verde mais escuro */
+    color: #17451c; /* Verde  escuro */
 }
 .section {
-    margin-bottom: 3.5rem; /* Espaço ainda maior entre as seções */
+    margin-bottom: 3.5rem; 
 }
 .contact {
-    background: #eaf5ee; /* Verde claro mais neutro */
+    background: #eaf5ee; /* Verde claro  neutro */
     border-radius: 8px;
     padding: 0.8rem 1rem;
     margin-top: 1.1rem;
@@ -80,22 +80,22 @@ strong {
     transition: background 0.2s;
 }
 .btn:hover {
-    background: #17451c; /* Verde ainda mais escuro */
+    background: #17451c; 
 }
 
 /* Responsividade para tablets */
 @media (max-width: 768px) {
     .container {
-        width: 95%; /* Mais estreito em tablets */
+        width: 95%; 
         max-width: 98vw;
         margin: 1.2rem auto;
         padding: 1.2rem 1rem 1.2rem 1rem;
     }
     h1 {
-        font-size: 1.5rem; /* Mantém título maior no tablet */
+        font-size: 1.5rem; 
     }
     h2 {
-        font-size: 1.15rem; /* Subtítulo confortável no tablet */
+        font-size: 1.15rem;
     }
     .logo img {
         height: 1.7rem;
@@ -104,7 +104,7 @@ strong {
 /* Responsividade para smartphones */
 @media (max-width: 480px) {
     .container {
-        width: 90%; /* Bem estreito no mobile */
+        width: 90%; 
         max-width: 100vw;
         padding: 0.7rem 0.5rem 0.7rem 0.5rem;
         border-radius: 0;
@@ -112,10 +112,10 @@ strong {
         box-shadow: none;
     }
     h1 {
-        font-size: 1.15rem; /* Título ainda legível no mobile */
+        font-size: 1.15rem; 
     }
     h2 {
-        font-size: 1rem; /* Subtítulo ainda legível no mobile */
+        font-size: 1rem; 
     }
     p, li {
         font-size: 0.97rem;
